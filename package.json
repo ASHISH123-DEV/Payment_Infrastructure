@@ -14,6 +14,7 @@
     "components": "^0.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.3",
     "style": "^0.0.3",
     "styled-components": "^6.1.17",
     "tailwindcss": "^4.1.5"
